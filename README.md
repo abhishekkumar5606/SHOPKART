@@ -1,4 +1,4 @@
-## Application Hoisted at : https://e-shopkart.netlify.app
+## Application Hoisted at : https://rococo-dasik-42e526.netlify.app
 
 Hey , Welcome to ShopKart ,an online Home Decoration Service , an Application developed for hassel-free service on a single click.
 
